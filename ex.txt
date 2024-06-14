@@ -1,0 +1,9 @@
+#details {
+  background-color: red;
+}
+
+#details div {
+  display: inline-block;
+  width: 24.5%;
+  text-align: center;
+}
